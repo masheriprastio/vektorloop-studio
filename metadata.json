@@ -1,0 +1,6 @@
+{
+  "name": "VektorLoop Studio - Animated SVG Creator",
+  "description": "Ubah gambar dan SVG menjadi animasi vektor SVG berlapis interaktif dengan efek looping halus seperti Flaticon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
